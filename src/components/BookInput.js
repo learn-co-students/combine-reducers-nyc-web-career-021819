@@ -1,3 +1,5 @@
+//component
+
 import React, { Component } from 'react';
 import { addBook } from '../actions';
 import uuid from 'uuid';
